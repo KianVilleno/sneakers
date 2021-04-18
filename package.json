@@ -2,7 +2,7 @@
   "name": "sneakers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KianVilleno.github.io/sneakers",
+  "homepage": "https://kianvilleno.github.io/sneakers",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
