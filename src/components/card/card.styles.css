@@ -12,7 +12,7 @@
   text-align: center;
   box-sizing: border-box;
 
-  padding: 20px;
+  padding: 35px;
 
   -webkit-box-shadow: 5px 5px 14px 5px rgba(0, 0, 0, 0.25);
   box-shadow: 5px 5px 14px 5px rgba(0, 0, 0, 0.25);
@@ -27,4 +27,14 @@
 .card-container-image {
   width: 80%;
   height: 80%;
+}
+
+.card-label-price {
+  margin-bottom: 0.5em;
+  font-weight: 700;
+}
+
+.card-label-retail-price {
+  font-size: 10px;
+  color: gray;
 }
